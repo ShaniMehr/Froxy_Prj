@@ -128,3 +128,4 @@
 *.gz lfs
 *.rar lfs
 *.tar lfs
+*.lld lfs
